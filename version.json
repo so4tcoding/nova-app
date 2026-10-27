@@ -1,0 +1,6 @@
+{
+  "versionCode": 8,
+  "versionName": "3.7",
+  "apkUrl": "https://github.com/so4tcoding/nova-app/releases/latest/download/nova.apk",
+  "notes": "수행평가: 사진(여러 장)·글로 채점 기준표, 과제, 답안 형식을 넣으면 AI가 만점 답안지를 문장 수에 맞춰 직접 써 줘요. 플래시 카드·빈칸 연습과 답안지·빈칸·플래시 카드 PDF 저장이 생겼어요. 이제 업데이트는 앱 안에서 받아 '설치'만 누르면 돼요."
+}
